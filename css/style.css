@@ -25,7 +25,7 @@ body{
 
 }
 
-p{
+.banner p{
     color: #2590DD;
   
     font-size: 32px;
@@ -44,4 +44,31 @@ p span{
     width: 500px;
     margin-top: 14px;
     padding-left: 136px;
+}
+
+header ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 24px;
+}
+header ul{
+    padding-top:29px ;
+    margin-left: 200px;
+}
+header{
+    width: 1440px;
+    height: 87px;
+    background-color:#FFCA10 ;
+    
+}
+
+footer{
+    width: 1440px;
+    height: 74px;
+    background-color:#FFCA10 ;
+}
+footer p{
+    padding-left: 500px;
+    font-size: 18px;
 }
