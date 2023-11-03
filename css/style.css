@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter;
+}
+
+body{
+    width: 1440px;
+}
+
+.banner{
+    width: 1440px;
+    height: 346px;
+    background-color:  #FEE667;
+
+}
+.logo{
+    
+    margin-left: 141px;   
+}
+
+.lego{
+    float: right;
+
+}
+
+p{
+    color: #2590DD;
+  
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p span{
+    font-size: 60px;
+}
+
+.text{
+    margin-top: 40px;
+    padding-left: 136px;
+}
+.text2{
+    width: 500px;
+    margin-top: 14px;
+    padding-left: 136px;
+}
